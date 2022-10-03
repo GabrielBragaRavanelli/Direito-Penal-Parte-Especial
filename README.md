@@ -22,6 +22,25 @@ MILÍCIA PRIVADA
 - Sem TENTATIVA
 - Elemento subjetivo: Dolo
 
+INCITAÇÂO DO CRIME
+- Crimes Formal
+- Admitisse tentaiva: É um crime plurisubssistente, além de ser feito por meio de faixas e cartazes.
+- Elentos subjetivo: Dolo
+- Os indivíduo destinados a incitaçâo é um número indeterminado
+- O locas: Deve ser público, não pode ser interior de uma cidade
+
+APOLOGIA AO CRIME E AO CRIMINOSO
+- Fazer, publicamente, apologia ao crime e ao criminoso
+- Crimes Formal
+- Admitisse tentavia: Crimes Plurissubsistente
+- Elemento subjetivo: Dolo
+
+- Diferença com a incitação do crime
+  - Incitaçâo do crime: Direta, crime futuro e delito específico 
+  - Apologia ao crime: Indireta, crime passado e anterior, além de ser um delito genérico 
+  
+
+
 
     
 
