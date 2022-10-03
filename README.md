@@ -1,2 +1,2 @@
-# Direito-Penal-Parte-geral
+# Direito-Penal-Parte-Especial
 Estudos para a prova de penal
