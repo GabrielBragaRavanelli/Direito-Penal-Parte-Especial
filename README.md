@@ -38,6 +38,11 @@ APOLOGIA AO CRIME E AO CRIMINOSO
 - Diferença com a incitação do crime
   - Incitaçâo do crime: Direta, crime futuro e delito específico 
   - Apologia ao crime: Indireta, crime passado e anterior, além de ser um delito genérico 
+
+
+DISPOSIÇÔES GERAIS
+- As penas são aumentadas nos títulos presentes nesse art. do Cp
+  
   
 
 
