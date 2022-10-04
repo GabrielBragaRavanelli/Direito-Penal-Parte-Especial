@@ -56,6 +56,23 @@ CRIMES CONTRA A FAMÍLIA
   - Apenas dolo
   - Pode ser praticados pelos pais com filhos na idade escolar e caraente de intruçâo primaria
   - Consumaçâo: Quando os pais não matriculam o filho em uma escola
+  
+ - CASAS DE PROSTITUIÇÂO
+   - Estabelecimento  de exploraçâo sexual a fim de gerar lucros 
+   - Crime formal
+   - Possui Tentativa
+   - Apenas Dolo
+   - Motel, casas de massagem, etc não podem ser considerados lugares de exploraçâo sexual, entretanto, se por mei ode fiscalizaçâo esses lugares tenham ligaçâo com crime de exploraçâo sexual, será penalizado por este delito
+             
+ - RUFIANISMO
+   - Indivíduo que se aproveita de prostituiçâo alheia para ganhar lucros para si
+   - Crime material
+   - Possui Tentativa
+   - Apennas dolo
+   - Diferença entre rufiâo e Proxeneta:
+     Rufião: Também conhecido como cafetão é aquele que se beneficia de prostituiçâo alheia pra gerar lucros para si
+     Proxeneta: É aquele quer marca os encontros de terceiros, na qual ele pode conseguir ou nâo vantagem economica
+   
 
   
   
