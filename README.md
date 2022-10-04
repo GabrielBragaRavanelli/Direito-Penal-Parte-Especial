@@ -42,6 +42,21 @@ APOLOGIA AO CRIME E AO CRIMINOSO
 
 DISPOSIÇÔES GERAIS
 - As penas são aumentadas nos títulos presentes nesse art. do Cp
+
+CRIMES CONTRA A FAMÍLIA 
+- Abandono material
+  - Crime formal
+  - Não admitisse Tentativa
+  - Apenas Dolo
+  - Acontece quando os pais deixam de pagar pensão que foi estabelecida, não socorrer ascendente ou descentente que estão com enfermo e menor de 18 anos, naior de 60 anos e inapto a trabalho.
+  
+ - Abandono de intelectual
+  - Crime formal
+  - Nâo Admitisse tentativa
+  - Apenas dolo
+  - Pode ser praticados pelos pais com filhos na idade escolar e caraente de intruçâo primaria
+  - Consumaçâo: Quando os pais não matriculam o filho em uma escola
+
   
   
 
