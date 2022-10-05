@@ -72,6 +72,23 @@ CRIMES CONTRA A FAMÍLIA
    - Diferença entre rufiâo e Proxeneta:
      Rufião: Também conhecido como cafetão é aquele que se beneficia de prostituiçâo alheia pra gerar lucros para si
      Proxeneta: É aquele quer marca os encontros de terceiros, na qual ele pode conseguir ou nâo vantagem economica
+     
+ - ESTUPRO
+   - Apenas dolo 
+   - Admitisse tentativa na forma plurissubsistente
+   - Por meio de violencia ou grave ameaça forçar algeum a praticar conjuraçâo carnal ou atos libidinosos
+   - Crime pluriofensivo, pois afeta a dignidade sexual, liberdade individual e sexual  e integridade sexual
+   - Estupro qualificado: quando a vitamia aparece com manchas no corpo por suposta agressão do agante
+   - Estupro passivo: quando a vítima não quer a pratica do ato sexual e mantendo uma caracteristica firme e seria e, portanto, so podendo sair deste ato por meio de violencia ou grave ameaça
+   - Estupro virtual: O agente por meio de nudes da vitíma, obriga por meio de webcam, a pratica de atos libidinoso para alimentar p apetite sexual do agente e, o mesmo, pode ameaçar a vitima caso ele não pratique seus desejos.
+   - Consumaçâo: 
+      - violencia ou grave ameaça, pratica conjuraçâo carnal, penis total ou parcial na vagina
+      - violencia ou grave ameaça, pratica de atos libidinosos, saciar o apetite sexual do agente
+   - MEIOS de execuçâo
+      - Direta ou indireta
+      
+ - ESTUPRO DE VULNERAVEL
+ 
    
 
   
