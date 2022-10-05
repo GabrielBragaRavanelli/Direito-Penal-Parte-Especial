@@ -78,7 +78,7 @@ CRIMES CONTRA A FAMÍLIA
    - Admitisse tentativa na forma plurissubsistente
    - Por meio de violencia ou grave ameaça forçar algeum a praticar conjuraçâo carnal ou atos libidinosos
    - Crime pluriofensivo, pois afeta a dignidade sexual, liberdade individual e sexual  e integridade sexual
-   - Estupro qualificado: quando a vitamia aparece com manchas no corpo por suposta agressão do agante
+   - Estupro qualificado: quando a vitima aparece com manchas no corpo por suposta agressão do agante
    - Estupro passivo: quando a vítima não quer a pratica do ato sexual e mantendo uma caracteristica firme e seria e, portanto, so podendo sair deste ato por meio de violencia ou grave ameaça
    - Estupro virtual: O agente por meio de nudes da vitíma, obriga por meio de webcam, a pratica de atos libidinoso para alimentar p apetite sexual do agente e, o mesmo, pode ameaçar a vitima caso ele não pratique seus desejos.
    - Consumaçâo: 
@@ -87,9 +87,22 @@ CRIMES CONTRA A FAMÍLIA
    - MEIOS de execuçâo
       - Direta ou indireta
       
- - ESTUPRO DE VULNERAVEL
- 
-   
+  - IMPORTUNAÇÂO SEXUAL
+    - Dolo
+    - Possui tentavia, embora seja dificil a concretização
+    - Praticar ato libidinoso contra um individio que não deu seu consentimento para saciar o seu apetite sexual
+      - Precisa ser pessoa determinada
+      - Caso o agente encoste o orgão genial na vitima com menos de 14 anos, será estupro de vulneravel
+      - Caso seja praticado em praça publica sem pessoa determinada, será atos obscenos
+  - ESTUPRO DE VULNERAVEL 
+  - VIOLAÇÃO SEXUAL MEDIANTE FRAUDE
+  - Assedio sexual
+    - Dolo 
+    - possui tentativa
+    - Pode acontecer apenas com hierarquia ou ascendente
+    - EX: - Pode acontecer com prostitutas
+          - Alunos e professores: Normalmente não pode ser caracterizado assedio, pois o aluno não apresenta uma carreira na escola, entretanto, caso tenha uma coerção (notas para os alunos) pode caracterizar assedio sexual
+          - lideres religiosos e seguidores: Não pode caracterizar assedio sexual
 
   
   
