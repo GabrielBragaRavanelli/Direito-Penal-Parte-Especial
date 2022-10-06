@@ -94,6 +94,7 @@ CRIMES CONTRA A FAMÍLIA
       - Precisa ser pessoa determinada
       - Caso o agente encoste o orgão genial na vitima com menos de 14 anos, será estupro de vulneravel
       - Caso seja praticado em praça publica sem pessoa determinada, será atos obscenos
+      - 
   - ESTUPRO DE VULNERAVEL 
   - VIOLAÇÃO SEXUAL MEDIANTE FRAUDE
   - Assedio sexual
