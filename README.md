@@ -54,7 +54,7 @@ CRIMES CONTRA A FAMÍLIA
   - Crime formal
   - Nâo Admitisse tentativa
   - Apenas dolo
-  - Pode ser praticados pelos pais com filhos na idade escolar e caraente de intruçâo primaria
+  - Pode ser praticados pelos pais com filhos na idade escolar e carente de intruçâo primaria
   - Consumaçâo: Quando os pais não matriculam o filho em uma escola
   
  - CASAS DE PROSTITUIÇÂO
@@ -94,9 +94,19 @@ CRIMES CONTRA A FAMÍLIA
       - Precisa ser pessoa determinada
       - Caso o agente encoste o orgão genial na vitima com menos de 14 anos, será estupro de vulneravel
       - Caso seja praticado em praça publica sem pessoa determinada, será atos obscenos
-      - 
+       
   - ESTUPRO DE VULNERAVEL 
+    - Dolo
+    - Crime formal
+    - Tem tentavia
+    - Tem que ser praticado contra menor de 14 anos ou pessoa sem discernimento
   - VIOLAÇÃO SEXUAL MEDIANTE FRAUDE
+    - Dolo
+    - Possui tentativa
+    - crime formal
+    - Enganar a vítima, para a pratica de atos libidinosos e atos carnais
+    - Caso a vítima descubra que esta sendo enganada e memos assim pratica os atos sexuais, não será considerado violação sexual mediante fraude
+    
   - Assedio sexual
     - Dolo 
     - possui tentativa
