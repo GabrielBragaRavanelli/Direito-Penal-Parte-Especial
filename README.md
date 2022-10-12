@@ -78,7 +78,7 @@ CRIMES CONTRA A FAMÍLIA
    - Admitisse tentativa na forma plurissubsistente
    - Por meio de violencia ou grave ameaça forçar algeum a praticar conjuraçâo carnal ou atos libidinosos
    - Crime pluriofensivo, pois afeta a dignidade sexual, liberdade individual e sexual  e integridade sexual
-   - Estupro qualificado: quando a vitima aparece com manchas no corpo por suposta agressão do agante
+   - Estupro qualificado: quando a vitima aparece com manchas no corpo por suposta agressão do agente
    - Estupro passivo: quando a vítima não quer a pratica do ato sexual e mantendo uma caracteristica firme e seria e, portanto, so podendo sair deste ato por meio de violencia ou grave ameaça
    - Estupro virtual: O agente por meio de nudes da vitíma, obriga por meio de webcam, a pratica de atos libidinoso para alimentar p apetite sexual do agente e, o mesmo, pode ameaçar a vitima caso ele não pratique seus desejos.
    - Consumaçâo: 
@@ -100,12 +100,15 @@ CRIMES CONTRA A FAMÍLIA
     - Crime formal
     - Tem tentavia
     - Tem que ser praticado contra menor de 14 anos ou pessoa sem discernimento
+    - Diferança entra estupro de vulneravel com violencia mediante fraude:
+      - No estupro de vulneravel, a vítima é totalmente privada de sua resistencia, enquanto na violencia mediante fraude, a vítima é enganda, mas possui totalmente a sua resistencia.
+      
   - VIOLAÇÃO SEXUAL MEDIANTE FRAUDE
     - Dolo
     - Possui tentativa
     - crime formal
-    - Enganar a vítima, para a pratica de atos libidinosos e atos carnais
-    - Caso a vítima descubra que esta sendo enganada e memos assim pratica os atos sexuais, não será considerado violação sexual mediante fraude
+    - Enganar a vítima, para a pratica de atos libidinosos e atos carnais.
+    - Caso a vítima descubra que esta sendo enganada e mesmos assim pratica os atos sexuais, não será considerado violação sexual mediante fraude.
     
   - Assedio sexual
     - Dolo 
